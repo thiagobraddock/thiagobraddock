@@ -1,5 +1,5 @@
-<h1 align="center">Yo! </h1>
-<h3 align="center"><i>"I Am the One Who Knocks"</i></h3>
+<h1>Yo! </h1>
+<h3><i>"I Am the One Who Knocks"</i></h3>
 
 - 💻 I work as a teacher, **Learning to teach, teaching to learn**
 
