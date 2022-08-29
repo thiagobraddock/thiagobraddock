@@ -7,16 +7,16 @@ document.write("Hello World");
 var status = 
 { 
   learning : [JavaScript, React, Laravel, Docker],
-  interests: [Research, Information Security, Programming]
+  interests: [Education, Research, Information Security, Programming]
 }
 
 const skills = 
 {
-  languages :[Php, Bash, Html, Css, Javascript],
+  languages :[Php, Javascript, C#, HTML],
   
-  ide       :[Vs Code, PhpStorm, repl.it, Visual Studio],
+  ide       :[Vs Code, PhpStorm, repl.it, Visual Studio, Netbeans],
   
-  frameworks:[Bootstrap, .NET, Laravel, React],
+  frameworks:[Bootstrap, .NET, Laravel, React, Bootstrap, Tailwind],
   
   platforms :[Amazon Web Services, Docker Container, Linux, macOS],
   
@@ -27,7 +27,7 @@ const skills =
 
 - 💻 I work as a teacher, **Learning to teach, teaching to learn**
 
-- 📖 I’m currently learning **php, laravel, flutter, react**
+- 📖 I’m currently learning **react stack, php, node**
 
 - 📫 How to reach me **braddock01@hotmail.com**
 
@@ -35,6 +35,7 @@ const skills =
 <p align="left">
 <a href="https://linkedin.com/in/profthiago" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="profthiago" /></a>
 <a href="https://fb.com/thiagobraddock" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="thiagobraddock"  /></a>
+<a href="https://www.instagram.com/thiago_braddock" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Link"  /></a>
 </p>  
 
 <h3 align="left">Languages and Tools:</h3>
@@ -102,8 +103,8 @@ const skills =
             <img height="32px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>Linux</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
+            <span><strong>ESLint</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg">
             <td width="80px" align="center">
             <span><strong>Bootstrap</strong></span><br>
             <img height="32px" src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg">
