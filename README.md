@@ -1,26 +1,27 @@
-<h1>Yo! </h1>
+<h1>Alôôôôôôôô!</h1>
 
 ```js
 const name = 'Thiago Braddock';
-document.write("Hello World");
+const age = 33;
+const degree = 'Systems Analyst'
 
-var status = 
+const status = 
 { 
-  learning : [JavaScript, React, Laravel, Docker],
-  interests: [Education, Research, Information Security, Programming]
+  learning : ['JavaScript', 'React', 'Laravel', 'Design', 'Front-end'],
+  interests: ['Education', 'Research', 'Information Security', 'UI/UX']
 }
 
 const skills = 
 {
-  languages :[Php, Javascript, C#, HTML],
+  languages :['Php', 'Javascript', 'C#'],
+
+  design: ['css', 'sass', 'figma', 'styled components', 'photoshop'],
   
-  ide       :[Vs Code, PhpStorm, repl.it, Visual Studio, Netbeans],
+  frameworks:['Bootstrap', '.NET', 'Laravel', 'React', 'Next Js' ,'Bootstrap', 'Tailwind'],
   
-  frameworks:[Bootstrap, .NET, Laravel, React, Bootstrap, Tailwind],
+  platforms :['AWS', 'Docker Container', 'Linux', 'macOS'],
   
-  platforms :[Amazon Web Services, Docker Container, Linux, macOS],
-  
-  cicd      :[Github Workflows]
+  cicd      :['Github Workflows']
 }
 
 ```
@@ -38,7 +39,7 @@ const skills =
 <a href="https://www.instagram.com/thiago_braddock" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Link"  /></a>
 </p>  
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Technologies and tools:</h3>
 <table width="320px">
     <tbody>
         <tr valign="top">
@@ -73,7 +74,7 @@ const skills =
             </td>
             <td width="80px" align="center">
             <span><strong>GitHub</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+            <img height="32px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
             </td>
         </tr>
         <tr valign="top">
@@ -89,8 +90,8 @@ const skills =
             <span><strong>Node</strong></span><br>
             <img height="32px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
             <td width="80px" align="center">
-            <span><strong>Jest</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
+            <span><strong>Trello</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg">
             </td>
         </tr>
         <tr valign="top">
