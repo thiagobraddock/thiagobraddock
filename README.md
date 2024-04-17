@@ -1,34 +1,45 @@
 <h1>Alôôôôôôôô!</h1>
 
 ```js
-const name = 'Thiago Braddock';
-const age = 33;
-const degree = 'Systems Analyst'
+const age = 34;
+const degree = 'Systems Analyst';
+const postGraduate = 'Postgraduate in Information Security';
 
 const status = 
 { 
-  learning : ['JavaScript', 'React', 'Laravel', 'Design', 'Front-end'],
+  studying : ['Next.js', 'Laravel', 'Leadership Development'],
   interests: ['Education', 'Research', 'Information Security', 'UI/UX']
 }
 
 const skills = 
 {
-  languages :['Php', 'Javascript', 'C#'],
+  languages :['C#', 'Javascript', 'Php', 'Typescript'],
 
-  design: ['css', 'sass', 'figma', 'styled components', 'photoshop'],
+  frontEnd: ['HTML', 'CSS', 'JavaScript', 'React', 'Redux', 'RTL', 'Jest'],
+
+  backEnd: ['Node.js', 'Express', 'Laravel'],
+
+  design: ['Figma', 'Photoshop'],
   
-  frameworks:['Bootstrap', '.NET', 'Laravel', 'React', 'Next Js' ,'Bootstrap', 'Tailwind'],
+  css_frameworks:['Bootstrap', 'Tailwind'],
   
-  platforms :['AWS', 'Docker Container', 'Linux', 'macOS'],
+  platforms :['AWS', 'Docker', 'Linux', 'macOS'],
   
-  cicd      :['Github Workflows']
+  cicd      :['Github Workflows'],
+
+  leadership: ['Team Leadership', 'Mentorship', 'Project Management']
+}
+
+const aboutMe = 
+{
+  summary: `Experienced Systems Analyst with a passion for education, research, and information security. Currently leading a team of developers in an educational setting.`,
+  
+  education: `${degree} | ${postGraduate}`
 }
 
 ```
 
 - 💻 I work as a teacher, **Learning to teach, teaching to learn**
-
-- 📖 I’m currently learning **react stack, php, node**
 
 - 📫 How to reach me **braddock01@hotmail.com**
 
